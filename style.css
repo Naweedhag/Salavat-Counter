@@ -1,0 +1,34 @@
+#salavatcounts{
+    display: block;
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#mycontainer{ 
+    text-align: center;
+    
+
+}
+.buttons{
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: darkseagreen;
+    cursor: pointer;
+    transition: back-grround-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: rgb(202, 208, 36)}
+
+.dool{
+    color: blueviolet;
+    background-color: beige;
+    border-radius: 100px;
+}
+#mycontainer{
+    background-color: darkolivegreen;
+}
